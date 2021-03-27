@@ -1,0 +1,38 @@
+.resume {
+    width: 100%;
+    padding: 20px;
+}
+
+.resume_title {
+    margin-bottom: 30px;
+}
+
+.resume_exCard {
+    min-height: 200px;
+    padding: 15px;
+    align-items: flex-start;
+    margin: 20px;
+}
+
+.resume_skillCard {
+    padding: 20px;
+    margin: 20px;
+}
+
+.resume_about {
+    padding: 20px;
+    margin: 20px;
+}
+
+.resume_back:hover {
+    background-color: #D7DDE2;
+    border-color: #000;
+    color: #000;
+}
+
+.resume_back {
+    background-color: #F6F8FA;
+    border-color: #000;
+    margin: 10px;
+    color: #000;
+}

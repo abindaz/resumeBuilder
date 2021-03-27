@@ -1,0 +1,47 @@
+.work {
+    width: 100%;
+    padding: 20px;
+}
+
+.work_card {
+    margin: 20px;
+    padding: 20px;
+}
+
+.work_group {
+    align-items: flex-start;
+    border: none;
+    padding: 10px;
+}
+
+.work_next:hover {
+    background-color: #FFB50D;
+    border-color: #000;
+}
+
+.work_next {
+    background-color: #FF9502;
+    border-color: #000;
+    margin: 10px;
+}
+
+.work_back:hover {
+    background-color: #D7DDE2;
+    border-color: #000;
+    color: #000;
+}
+
+.work_back {
+    background-color: #F6F8FA;
+    border-color: #000;
+    margin: 10px;
+    color: #000;
+}
+
+.work_addMore {
+    width: 80%;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px;
+    margin-bottom: 50px;
+}

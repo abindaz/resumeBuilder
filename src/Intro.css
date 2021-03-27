@@ -1,0 +1,23 @@
+.intro {
+    width: 100%;
+    padding: 20px;
+}
+
+.intro_card {
+    margin: 20px;
+    padding: 20px;
+    min-height: 300px;
+    align-items: center;
+    justify-content: center;
+}
+
+.intro_next:hover {
+    background-color: #FFB50D;
+    border-color: #000;
+}
+
+.intro_next {
+    background-color: #FF9502;
+    border-color: #000;
+    margin: 10px;
+}

@@ -1,0 +1,14 @@
+.nav {
+    right: 0;
+    left: 0;
+    padding: 10px;
+}
+
+.nav_title {
+    color: #F49D21;
+    font-weight: 600;
+}
+
+.nav_row {
+    width: 100%;
+}
